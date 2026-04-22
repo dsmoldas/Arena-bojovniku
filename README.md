@@ -1,4 +1,4 @@
-Aréna bojovníků
+# Aréna bojovníků
 
 Tenhle projekt je konzolová aplikace v jazyku C#.
 Tento projekt měl za úkol logiku jednoduché hry (proto konzolová aplikace).
